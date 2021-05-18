@@ -1,6 +1,6 @@
 # Histoire Numerique
 
-Espace dédié à mes enseignements d'initiation aux méthodes et outils numériques pour les sciences historiques
+Espace dédié aux enseignements de Francesco Beretta en initiation aux méthodes et outils numériques pour les sciences historiques
 
 ---
 
